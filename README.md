@@ -1,0 +1,109 @@
+<div align="center">
+
+<img src="./stars-header.svg" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2600&pause=900&color=A5B4FC&center=true&vCenter=true&width=650&lines=Cyber+Security+Student;Video+Editor+%2B+Motion+Designer;C%2B%2B+%2F+Java+%2F+Python+Developer;Always+learning+something+new" alt="roles"/>
+
+</div>
+
+<br>
+
+Cyber Security student, video editor, and motion designer. I like figuring out how things actually work — systems, code, and edits alike.
+
+<br>
+
+## Skills
+
+<div align="center">
+
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)
+![After Effects](https://img.shields.io/badge/-After%20Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+</div>
+
+<br>
+
+## What I work on
+
+**Cyber Security** — coursework, labs and personal projects around security fundamentals, networking and programming.
+
+**Development** — small tools and projects mainly in C++, Java and Python.
+
+**Video Editing** — editing, color grading and motion graphics work, from client projects to personal experiments.
+
+<br>
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=hassan876627-cpu&show_icons=true&hide_border=true&bg_color=00000000&title_color=6366F1&text_color=333333&icon_color=6366F1&rank_icon=github" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=hassan876627-cpu&layout=compact&hide_border=true&bg_color=00000000&title_color=6366F1&text_color=333333&langs_count=8" height="165"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hassan876627-cpu&bg_color=00000000&color=333333&line=6366F1&point=6366F1&area=true&area_color=6366F1&hide_border=true" width="95%"/>
+
+</div>
+
+<br>
+
+## Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="contribution snake"/>
+
+</div>
+
+<br>
+
+## Connect
+
+<div align="center">
+
+<a href="https://github.com/hassan876627-cpu">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/hassan-imran-1a2380380">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://hassan-imran-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:hassan876627@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.instagram.com/__hassan__53">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.facebook.com/share/1BznMWt93B/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="./stars-footer.svg" width="100%"/>
+
+</div>
